@@ -2,6 +2,8 @@
 
 Part of the **C-Engine Series**, where I combine automobile engineering logic with C programming to build real-world problem-solving tools.
 
+here is the project link :- https://github.com/OmkarRele09/C-Engine-Project-009/blob/main/carheadlightautomode.c
+
 ## 🔥 About
 This program simulates an automatic car headlight control system using basic conditional logic.  
 It turns headlights ON or OFF based on light sensor input — similar to real automotive sensor-based lighting systems.
